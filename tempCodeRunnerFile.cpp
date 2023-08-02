@@ -1,6 +1,3 @@
-while (curNode->next!=nullptr)
-            {
-                cout<<curNode->data<<" ";
-                curNode=curNode->next;
-            }
-            cout<<curNode->data<<endl;
+
+    s1.push(4);
+    s1.push(3);
